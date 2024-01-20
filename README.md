@@ -1,5 +1,3 @@
-# Music_Store_Predictive_Analysis_n_BI
-
 # Music Store Predictive Analysis & Business Intelligence
 
 ## Project Overview
